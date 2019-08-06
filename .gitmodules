@@ -1,0 +1,6 @@
+[submodule "Examples/HackathonStarter"]
+	path = Examples/HackathonStarter
+	url = git@github.com:sahat/hackathon-starter.git
+[submodule "Projects/HolyJS"]
+	path = Projects/HolyJS
+	url = git@github.com:holyjs/holyjs.git
